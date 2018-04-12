@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Small Heaven</string>
+        <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="Description">At Small heaven cakes, we bake gourmet cakes coupled with exceptional customer
+        service in a homely atmosphere. Our mission is to create cakes that are not only dazzling but delicious
+        and healthy. Our vision is to have an outlet so that we may serve more clients and still maintain good quality.</string>
+    <string name="location">Location: Zimmermann, Canopy Stage along Kamiti Road. Click on the map..</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_add_favourite">Add to Wishlist</string>
+    <string name="action_play_next">Order Now</string>
+    <string name="backdrop_title">LOVE + CAKE</string>
+    <string name="backdrop_subtitle">GOTTA LOVE OUR CAKES</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifcations</string>
+</resources>
